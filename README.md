@@ -7,7 +7,7 @@
 
 # PROYECTO POWER BI – Análisis social del amor, a través de apps de citas
 
-#  GRUPO: Gema · Patricia · Antonio · Ángela GonCay
+#  GRUPO: Gema · Patricia · Ángela GonCay
 
 # Descripción
 
